@@ -9,7 +9,7 @@ from ortools.constraint_solver import routing_enums_pb2
 from ortools.constraint_solver import pywrapcp
 
 # --- 1. الإعدادات والبيانات ---
-TOKEN = "8422973831:AAExcIH_XH9PDImbyv_Ejr4eYH0pDYzRGzk"
+TOKEN = "mySuperTelgramTOKEN"
 OSRM_SOURCE = os.getenv('OSRM_URL', 'http://127.0.0.1:5000')
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
@@ -337,4 +337,5 @@ def main():
     application.run_polling()
 
 if __name__ == "__main__":
+
     main()
