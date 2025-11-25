@@ -34,10 +34,6 @@ Think of this application as a restaurant operation:
 
 # Install dependencies
 pip install -r requirements.txt
-````
-
-
-
 
 ## 📖 Detailed Usage Guide
 
