@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ````
 
 
------
+
 
 ## 📖 Detailed Usage Guide
 
