@@ -1,4 +1,3 @@
 requests
 ortools
-googlemaps
 python-telegram-bot
